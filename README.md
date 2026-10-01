@@ -1,6 +1,6 @@
 # learn
 
-PaperTutor를 만들며 배운 것을 HTML 한 장씩으로 정리한다. 파일을 브라우저에서 바로 연다.
+PaperTutor를 만들며 배운 것을 HTML 한 장씩으로 정리한다. GitHub Pages로 공개한다: https://geunhh.github.io/learn/
 
 | 파일 | 내용 | 작성 |
 |---|---|---|
